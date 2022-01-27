@@ -17,7 +17,7 @@ import numpy as np
 n = eval(input())
 val = np.linalg.norm(n,2)
 print("{:.2f}".format(val))
-# Type your code here
+
 
 
 
